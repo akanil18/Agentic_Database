@@ -1,0 +1,2 @@
+pyton -m venv sql
+./sql/Script/activate
